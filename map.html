@@ -54,6 +54,8 @@
       pitch: map.getPitch(),
       bearing: map.getBearing(),
   };
+  // The .flyTo() method lets us programmatically move the map to a certain location. Let's use it to re-center the map to wherever the user clicks.
+  map.flyTo(location);
   console.log(JSON.stringify(location, null, 2));
 });
 
