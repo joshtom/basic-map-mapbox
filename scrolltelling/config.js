@@ -69,13 +69,13 @@ var config = {
         {
             id: 'character-5',
             title: 'DAY OF THE DEAD, MEXICO – 2ND NOVEMBER',
-            description: 'Speakers from around the world.',
+            description: 'Fun fact: Day of the dead isn’t a Mexican version of Halloween it’s actually a celebration of life and death. A time for family and friends to get together, pray and remember those who have passed and to help support their spiritual journey. Over two days cities and towns all over Mexico host parades and parties, dance, and make offerings to those lost. The skulls and skeletons make for colourful costumes as well as foods like sweets which is giving to the living and the dead. Some of the best celebrations take place in Patzcuaro and Tuxtepec.',
             location: {
               "center": [
-                -43.14941052487882,
-                -23.058186296568493
+                -99.19642494601642,
+                19.41189050688095
               ],
-              "zoom": 3.6766126208214724,
+              "zoom": 5.666039266344971,
               "pitch": 0,
               "bearing": 0
             }
