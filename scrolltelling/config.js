@@ -16,10 +16,10 @@ var config = {
             description: 'The only thing better than watching dozens of vibrant hot air balloons take flight above the magnificent snow-capped peaks of the Dolomites is, perhaps, being a part of the spectacle. Combine this magical experience with a heart-pumping ski and snowboard vacation in one of the world’s largest ski resorts.',
             location: {
               "center": [
-                3.8976850618724654,
-                7.374839863613502
+                11.847060205197181,
+                43.004187063399684
               ],
-              "zoom": 9.359638284520218,
+              "zoom": 4.139215861906761,
               "pitch": 0,
               "bearing": 0
             }
