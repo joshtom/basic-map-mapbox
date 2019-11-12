@@ -1,0 +1,34 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Poly Building": "technical Tertiary Institution for nigerian students"
+      },
+      "geometry": {
+        "coordinates": [
+          3.880639,
+          7.438483
+        ],
+        "type": "Point"
+      },
+      "id": "df4246efe19535c0deda459f53dde914"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q5983592",
+        "place_name": "Ibadan North, Oyo, Nigeria"
+      },
+      "geometry": {
+        "coordinates": [
+          3.91311,
+          7.40324
+        ],
+        "type": "Point"
+      },
+      "id": "place.12781121934153970"
+    }
+  ],
+  "type": "FeatureCollection"
+}
