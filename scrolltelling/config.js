@@ -40,14 +40,14 @@ var config = {
         },
         {
             id: 'character-3',
-            title: 'RIO CARNIVAL, RIO – 2ND – 9TH MARCH',
+            title: 'CARNIVALE DI VENEZIA, VENICE, ITALY – 16TH FEB – 5TH MARCH',
             description: 'Speakers from around the world.',
             location: {
               "center": [
-                -43.14941052487882,
-                -23.058186296568493
+                12.186531737762266,
+                45.450197387122444
               ],
-              "zoom": 3.6766126208214724,
+              "zoom": 4.219626278344652,
               "pitch": 0,
               "bearing": 0
             }
