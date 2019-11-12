@@ -47,7 +47,14 @@
     // Part 4 code will go here
     map.on('click', (event) => {
   const clickedPoint = [event.lngLat.lng, event.lngLat.lat];
-  console.log(JSON.stringify(clickedPoint));
+
+  const location = {
+      center: clickedPoint,
+      zoom: map.getZoom(),
+      pitch: map.getPitch(),
+      bearing: map.getBearing(),
+  };
+  console.log(JSON.stringify(location, null, 2));
 });
 
     </script>
