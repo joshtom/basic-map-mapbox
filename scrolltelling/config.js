@@ -58,10 +58,10 @@ var config = {
             description: 'Powered dye, water sprinklers and rituals. The Festival of Colors is celebrated the day after the March full moon and marks the end of winter and upcoming spring. Holi celebrations are a reminder of the triumph of good over evil. Rituals include burning of demoness Holika, bonfires are lit, people sing and dance around the fire known as puja. No rituals are performed on the main day but the famous coloured powder is thrown and applied to people’s faces. Music, dancing, and cannabis milk (bhang) occupy the celebrations of this fun event.',
             location: {
               "center": [
-                -43.14941052487882,
-                -23.058186296568493
+                73.23443141785938,
+                16.59857879057361
               ],
-              "zoom": 3.6766126208214724,
+              "zoom": 4.647900978772024,
               "pitch": 0,
               "bearing": 0
             }
