@@ -56,7 +56,19 @@
   };
   // The .flyTo() method lets us programmatically move the map to a certain location. Let's use it to re-center the map to wherever the user clicks.
   map.flyTo(location);
-  console.log(JSON.stringify(location, null, 2));
+//   console.log(JSON.stringify(location, null, 2));
+const clicked = {
+  location: location
+};
+
+const clickedFeatures = map.queryRenderedFeatures(event.point, { layers: [ 'polytechnic-ibadan']});
+
+if (clickedFeatures.length > 0) {
+  clicked.title = clickedFeatures[0].properties.title;
+  clicked.description = clickedFeatures[0].properties.description;
+}
+
+console.log(JSON.stringify(clicked, null, 2));
 });
 
     </script>
