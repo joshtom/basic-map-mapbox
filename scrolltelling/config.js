@@ -1,6 +1,6 @@
 var config = {
     style: 'mapbox://styles/joshtom/ck2vsj0xm07nk1clftlk72e03', //TODO
-    accessToken: 'YOUR_ACCESS_TOKEN', //TODO
+    accessToken: 'pk.eyJ1Ijoiam9zaHRvbSIsImEiOiJjazFranJtN28wYnpiM21wbngyYnVmNWVhIn0._hZgXozsX5twECrg2li7_g', //TODO
     title: 'YOUR MAP TITLE', //TODO
     subtitle: 'YOUR MAP SUBTITLE', //TODO
     byline: 'By YOUR NAME', //TODO
