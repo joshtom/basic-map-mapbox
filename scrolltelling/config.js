@@ -11,7 +11,7 @@ var config = {
     chapters: [
         //TODO replace this data with data from the first point in your dataset
         {
-            id: 'concatenate-lagos',
+            id: 'character-1',
             title: 'DOLOMITI BALLOON FESTIVAL, DOBBIACO, ITALY – 8TH – 17TH JANUARY',
             description: 'The only thing better than watching dozens of vibrant hot air balloons take flight above the magnificent snow-capped peaks of the Dolomites is, perhaps, being a part of the spectacle. Combine this magical experience with a heart-pumping ski and snowboard vacation in one of the world’s largest ski resorts.',
             location: {
@@ -25,15 +25,15 @@ var config = {
             }
         },
         {
-            id: 'second-concatenate-lagos',
-            title: 'Second Concatenate Lagos',
+            id: 'character-1',
+            title: 'RIO CARNIVAL, RIO – 2ND – 9TH MARCH',
             description: 'Speakers from around the world.',
             location: {
               "center": [
-                4.1026452192590455,
-                7.295225165501876
+                -43.14941052487882,
+                -23.058186296568493
               ],
-              "zoom": 9.359638284520218,
+              "zoom": 3.6766126208214724,
               "pitch": 0,
               "bearing": 0
             }
