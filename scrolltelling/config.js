@@ -41,7 +41,7 @@ var config = {
         {
             id: 'character-3',
             title: 'CARNIVALE DI VENEZIA, VENICE, ITALY – 16TH FEB – 5TH MARCH',
-            description: 'Speakers from around the world.',
+            description: 'Started in 1162, outlawed in 1797 and brought back in 1979 the Carnival of Venice has a long history and now welcomes some 3 million visitors each year. The city is transformed with people in intricate costumes and masks, with the best competing for la maschera più bella (“the most beautiful mask”). Activities start with acrobats and music on the water and continue with parades, markets, crafts, re-enactment, and parties. Venice does get very busy so get ready for crowds and try to get away from St.Marks square towards some of the quieter areas.',
             location: {
               "center": [
                 12.186531737762266,
@@ -54,7 +54,7 @@ var config = {
         },
         {
             id: 'character-4',
-            title: 'RIO CARNIVAL, RIO – 2ND – 9TH MARCH',
+            title: 'HOLI, INDIA – 20TH & 21ST MARCH',
             description: 'Speakers from around the world.',
             location: {
               "center": [
