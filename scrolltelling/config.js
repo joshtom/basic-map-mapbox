@@ -68,7 +68,7 @@ var config = {
         },
         {
             id: 'character-5',
-            title: 'RIO CARNIVAL, RIO – 2ND – 9TH MARCH',
+            title: 'DAY OF THE DEAD, MEXICO – 2ND NOVEMBER',
             description: 'Speakers from around the world.',
             location: {
               "center": [
