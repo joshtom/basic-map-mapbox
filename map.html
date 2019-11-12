@@ -45,6 +45,10 @@
     });
 
     // Part 4 code will go here
+    map.on('click', (event) => {
+  const clickedPoint = [event.lngLat.lng, event.lngLat.lat];
+  console.log(JSON.stringify(clickedPoint));
+});
 
     </script>
   </body>
