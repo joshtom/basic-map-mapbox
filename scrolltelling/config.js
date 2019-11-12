@@ -25,7 +25,49 @@ var config = {
             }
         },
         {
-            id: 'character-1',
+            id: 'character-2',
+            title: 'RIO CARNIVAL, RIO – 2ND – 9TH MARCH',
+            description: 'Forget the miserable English winter, grab your sequin leggings, peacock feather headdress and fly to Brazil. Just before Lent some two million people per day hit the streets of Rio and take part in the world’s biggest carnival. Tourists and revellers can enjoy the street parades, floats, vibrant costumes and energic dancing. With hundreds of these blocos going on all over Rio morning noon and night you will always find a party. As the blocos continue on the streets, inside the Sambodromo, a purpose-built parade area, samba schools compete to win over the crowd and judges for the best performance. Carnival is free but entry to the Sambodromo costs, tickets for the grandstand on main parade day cost from R€269.40 (that’s Brazilian real) .',
+            location: {
+              "center": [
+                -43.14941052487882,
+                -23.058186296568493
+              ],
+              "zoom": 3.6766126208214724,
+              "pitch": 0,
+              "bearing": 0
+            }
+        },
+        {
+            id: 'character-3',
+            title: 'RIO CARNIVAL, RIO – 2ND – 9TH MARCH',
+            description: 'Speakers from around the world.',
+            location: {
+              "center": [
+                -43.14941052487882,
+                -23.058186296568493
+              ],
+              "zoom": 3.6766126208214724,
+              "pitch": 0,
+              "bearing": 0
+            }
+        },
+        {
+            id: 'character-4',
+            title: 'RIO CARNIVAL, RIO – 2ND – 9TH MARCH',
+            description: 'Speakers from around the world.',
+            location: {
+              "center": [
+                -43.14941052487882,
+                -23.058186296568493
+              ],
+              "zoom": 3.6766126208214724,
+              "pitch": 0,
+              "bearing": 0
+            }
+        },
+        {
+            id: 'character-5',
             title: 'RIO CARNIVAL, RIO – 2ND – 9TH MARCH',
             description: 'Speakers from around the world.',
             location: {
