@@ -1,5 +1,5 @@
 var config = {
-    style: 'mapbox://styles/joshtom/ck2vsj0xm07nk1clftlk72e03', //TODO
+    style: 'mapbox://styles/joshtom/ck2w1zwtl0fzb1dtd6lm2ogyi', //TODO
     accessToken: 'pk.eyJ1Ijoiam9zaHRvbSIsImEiOiJjazFranJtN28wYnpiM21wbngyYnVmNWVhIn0._hZgXozsX5twECrg2li7_g', //TODO
     title: 'Events in 2019', //TODO
     subtitle: 'Listed below are Few Unmissable events in 2019', //TODO
